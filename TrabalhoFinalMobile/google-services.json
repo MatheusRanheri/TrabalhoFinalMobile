@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131644742877",
+    "project_id": "trabalhofinalmobile-49f44",
+    "storage_bucket": "trabalhofinalmobile-49f44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131644742877:android:2ff60d6f643353f75e4f34",
+        "android_client_info": {
+          "package_name": "fundatec.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdN9aT4G8rdwRxx9vFAJj3sDqCNRpe7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
